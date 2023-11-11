@@ -12,3 +12,5 @@ El objetivo es crear una serie de tareas usando Arquitectura Limpia con TypeScri
     MAILER_EMAIL=
     MAILER_SECRET_KEY=
     ```
+3. Ejecutar el comando ``` npm install ```
+4. Ejecutar ``` npm run dev ```
