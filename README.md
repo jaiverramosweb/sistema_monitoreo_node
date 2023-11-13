@@ -14,3 +14,6 @@ El objetivo es crear una serie de tareas usando Arquitectura Limpia con TypeScri
     ```
 3. Ejecutar el comando ``` npm install ```
 4. Ejecutar ``` npm run dev ```
+
+## Obtener Gmail Key
+[Google AppPassword](https://myaccount.google.com/u/0/apppasswords)
